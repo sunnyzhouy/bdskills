@@ -1,0 +1,4 @@
+interface:
+  display_name: "Byte Strategy Memo"
+  short_description: "Draft a strategy memo and annual leadership direction note"
+  default_prompt: "Use $byte-strategy-memo-en to draft the actual deliverable and keep the Byte-style structure and judgment."

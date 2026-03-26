@@ -1,0 +1,4 @@
+interface:
+  display_name: "字节产品研发评审"
+  short_description: "审视需求价值、研发切片、技术杠杆和迭代节奏是否合理"
+  default_prompt: "使用 $byte-product-rd-review-zh 评审这件事的方向、逻辑和关键取舍，并告诉我下一步该进入哪个 skill。"

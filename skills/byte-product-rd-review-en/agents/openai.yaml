@@ -1,0 +1,4 @@
+interface:
+  display_name: "Byte Product-RD Review"
+  short_description: "Review demand value, build slices, and iteration rhythm"
+  default_prompt: "Use $byte-product-rd-review-en to review the direction, logic, and tradeoffs here, then recommend the next skill."

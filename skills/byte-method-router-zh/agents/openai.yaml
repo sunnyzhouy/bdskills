@@ -1,0 +1,4 @@
+interface:
+  display_name: "字节方法路由器"
+  short_description: "帮你在字节式战略、产品、市场、服务 skill 间快速选路"
+  default_prompt: "使用 $byte-method-router-zh 判断我当前问题应该走哪一个字节式 skill，并给出下一步建议。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "字节 GTM 计划"
+  short_description: "制定市场进入、渠道组合、节奏、指标与 90 天推进计划"
+  default_prompt: "使用 $byte-gtm-plan-zh 直接为我产出这份文档或方案，并保持字节式判断和结构。"

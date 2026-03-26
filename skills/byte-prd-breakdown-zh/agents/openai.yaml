@@ -1,0 +1,4 @@
+interface:
+  display_name: "字节 PRD 拆解"
+  short_description: "把方向拆成 PRD、用户故事、验收标准和研发切片方案"
+  default_prompt: "使用 $byte-prd-breakdown-zh 直接为我产出这份文档或方案，并保持字节式判断和结构。"

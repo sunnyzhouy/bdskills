@@ -1,0 +1,4 @@
+interface:
+  display_name: "字节实验设计"
+  short_description: "输出实验假设、指标、样本、判定条件与完整复盘结构设计"
+  default_prompt: "使用 $byte-experiment-design-zh 直接为我产出这份文档或方案，并保持字节式判断和结构。"

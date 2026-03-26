@@ -1,0 +1,4 @@
+interface:
+  display_name: "Byte Method Router"
+  short_description: "Route work to the right Byte-style review or execution skill"
+  default_prompt: "Use $byte-method-router-en to choose the right Byte-style skill for my problem and recommend the next step."

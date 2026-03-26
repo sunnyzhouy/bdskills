@@ -1,0 +1,4 @@
+interface:
+  display_name: "字节市场评审"
+  short_description: "校准定位、需求验证、渠道组合和市场进入逻辑是否成立"
+  default_prompt: "使用 $byte-market-review-zh 评审这件事的方向、逻辑和关键取舍，并告诉我下一步该进入哪个 skill。"

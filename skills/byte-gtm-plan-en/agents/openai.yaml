@@ -1,0 +1,4 @@
+interface:
+  display_name: "Byte GTM Plan"
+  short_description: "Build a GTM plan with channels, timing, metrics, and actions"
+  default_prompt: "Use $byte-gtm-plan-en to draft the actual deliverable and keep the Byte-style structure and judgment."

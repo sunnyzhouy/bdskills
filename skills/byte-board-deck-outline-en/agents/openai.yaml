@@ -1,0 +1,4 @@
+interface:
+  display_name: "Byte Board Deck Outline"
+  short_description: "Outline a board-style deck with logic flow and key slides"
+  default_prompt: "Use $byte-board-deck-outline-en to draft the actual deliverable and keep the Byte-style structure and judgment."

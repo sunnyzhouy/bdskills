@@ -1,0 +1,4 @@
+interface:
+  display_name: "Byte Positioning and Message House"
+  short_description: "Build positioning, value proposition, and a message house"
+  default_prompt: "Use $byte-positioning-message-house-en to draft the actual deliverable and keep the Byte-style structure and judgment."

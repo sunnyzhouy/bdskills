@@ -1,0 +1,4 @@
+interface:
+  display_name: "Byte Org Alignment Memo"
+  short_description: "Draft an org-alignment memo with roles, boundaries, and rhythm"
+  default_prompt: "Use $byte-org-alignment-memo-en to draft the actual deliverable and keep the Byte-style structure and judgment."

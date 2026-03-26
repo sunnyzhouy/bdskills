@@ -1,0 +1,4 @@
+interface:
+  display_name: "字节 VOC 到行动"
+  short_description: "把客户声音、投诉与访谈整理成行动项、机制改进与 owner"
+  default_prompt: "使用 $byte-voc-to-action-zh 直接为我产出这份文档或方案，并保持字节式判断和结构。"

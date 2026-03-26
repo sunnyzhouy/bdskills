@@ -1,0 +1,4 @@
+interface:
+  display_name: "Byte Opportunity Framing"
+  short_description: "Frame a fuzzy opportunity into users, scenarios, and proof paths"
+  default_prompt: "Use $byte-opportunity-framing-en to draft the actual deliverable and keep the Byte-style structure and judgment."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Byte Founder Review"
+  short_description: "Review bets, focus, and founder-level narrative strength"
+  default_prompt: "Use $byte-founder-review-en to review the direction, logic, and tradeoffs here, then recommend the next skill."

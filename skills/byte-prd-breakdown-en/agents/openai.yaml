@@ -1,0 +1,4 @@
+interface:
+  display_name: "Byte PRD Breakdown"
+  short_description: "Break a direction into PRD scope, stories, and delivery bars"
+  default_prompt: "Use $byte-prd-breakdown-en to draft the actual deliverable and keep the Byte-style structure and judgment."

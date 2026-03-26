@@ -1,0 +1,4 @@
+interface:
+  display_name: "字节式经营原则"
+  short_description: "沉淀字节式战略、产品、市场、服务判断原则与写作标准"
+  default_prompt: "使用 $byte-operating-principles-zh 先校准这份方案的判断框架，再告诉我该进入哪个下游 skill。"

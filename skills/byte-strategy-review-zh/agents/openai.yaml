@@ -1,0 +1,4 @@
+interface:
+  display_name: "字节战略评审"
+  short_description: "用字节式方法做战略方向、聚焦取舍与资源配置综合评审"
+  default_prompt: "使用 $byte-strategy-review-zh 评审这件事的方向、逻辑和关键取舍，并告诉我下一步该进入哪个 skill。"

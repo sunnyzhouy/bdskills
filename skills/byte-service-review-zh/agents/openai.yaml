@@ -1,0 +1,4 @@
+interface:
+  display_name: "字节服务评审"
+  short_description: "评估服务模式、SLA、升级路径与客户反馈闭环设计质量"
+  default_prompt: "使用 $byte-service-review-zh 评审这件事的方向、逻辑和关键取舍，并告诉我下一步该进入哪个 skill。"

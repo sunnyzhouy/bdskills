@@ -1,0 +1,4 @@
+interface:
+  display_name: "Byte Strategy Review"
+  short_description: "Review strategy direction, focus, and resource choices"
+  default_prompt: "Use $byte-strategy-review-en to review the direction, logic, and tradeoffs here, then recommend the next skill."

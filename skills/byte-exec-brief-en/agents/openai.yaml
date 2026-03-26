@@ -1,0 +1,4 @@
+interface:
+  display_name: "Byte Executive Brief"
+  short_description: "Draft an executive brief, one-pager, and decision request"
+  default_prompt: "Use $byte-exec-brief-en to draft the actual deliverable and keep the Byte-style structure and judgment."

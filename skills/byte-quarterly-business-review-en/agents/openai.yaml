@@ -1,0 +1,4 @@
+interface:
+  display_name: "Byte Quarterly Business Review"
+  short_description: "Create a quarterly business review with correction actions"
+  default_prompt: "Use $byte-quarterly-business-review-en to draft the actual deliverable and keep the Byte-style structure and judgment."

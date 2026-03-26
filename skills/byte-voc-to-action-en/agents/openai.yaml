@@ -1,0 +1,4 @@
+interface:
+  display_name: "Byte VOC to Action"
+  short_description: "Turn customer feedback into actions, fixes, and clear owners"
+  default_prompt: "Use $byte-voc-to-action-en to draft the actual deliverable and keep the Byte-style structure and judgment."

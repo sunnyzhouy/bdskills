@@ -1,0 +1,4 @@
+interface:
+  display_name: "字节高管摘要"
+  short_description: "输出高管摘要、管理层一页纸与关键决策请求完整文稿包"
+  default_prompt: "使用 $byte-exec-brief-zh 直接为我产出这份文档或方案，并保持字节式判断和结构。"

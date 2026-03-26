@@ -1,0 +1,4 @@
+interface:
+  display_name: "Byte Operating Principles"
+  short_description: "Core Byte-style principles for business and execution quality"
+  default_prompt: "Use $byte-operating-principles-en to calibrate the judgment framework for this plan before choosing the next skill."

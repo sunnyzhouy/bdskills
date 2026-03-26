@@ -1,0 +1,4 @@
+interface:
+  display_name: "Byte Service Blueprint"
+  short_description: "Create a service blueprint with touchpoints, roles, and flows"
+  default_prompt: "Use $byte-service-blueprint-en to draft the actual deliverable and keep the Byte-style structure and judgment."

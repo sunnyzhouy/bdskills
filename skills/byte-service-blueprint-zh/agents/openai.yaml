@@ -1,0 +1,4 @@
+interface:
+  display_name: "字节服务蓝图"
+  short_description: "输出服务触点、角色、流程、SLA、升级和反馈闭环蓝图"
+  default_prompt: "使用 $byte-service-blueprint-zh 直接为我产出这份文档或方案，并保持字节式判断和结构。"

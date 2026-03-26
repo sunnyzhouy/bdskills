@@ -1,0 +1,4 @@
+interface:
+  display_name: "Byte Market Review"
+  short_description: "Review positioning, channels, and market-entry logic"
+  default_prompt: "Use $byte-market-review-en to review the direction, logic, and tradeoffs here, then recommend the next skill."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Byte Experiment Design"
+  short_description: "Design experiments with hypotheses, metrics, and decision rules"
+  default_prompt: "Use $byte-experiment-design-en to draft the actual deliverable and keep the Byte-style structure and judgment."

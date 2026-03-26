@@ -1,0 +1,4 @@
+interface:
+  display_name: "Byte Service Review"
+  short_description: "Review service design, SLA, escalation, and feedback loops"
+  default_prompt: "Use $byte-service-review-en to review the direction, logic, and tradeoffs here, then recommend the next skill."

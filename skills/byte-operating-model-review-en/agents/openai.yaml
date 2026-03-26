@@ -1,0 +1,4 @@
+interface:
+  display_name: "Byte Operating Model Review"
+  short_description: "Review the cross-functional operating model and business rhythm"
+  default_prompt: "Use $byte-operating-model-review-en to review the direction, logic, and tradeoffs here, then recommend the next skill."

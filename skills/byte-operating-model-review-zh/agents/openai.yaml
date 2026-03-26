@@ -1,0 +1,4 @@
+interface:
+  display_name: "字节经营模型评审"
+  short_description: "审视跨战略、产品、市场、服务的一体化经营机制与协同设计"
+  default_prompt: "使用 $byte-operating-model-review-zh 评审这件事的方向、逻辑和关键取舍，并告诉我下一步该进入哪个 skill。"

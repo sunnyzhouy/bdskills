@@ -1,0 +1,4 @@
+interface:
+  display_name: "Byte Roadmap Design"
+  short_description: "Design a roadmap with priorities, dependencies, and milestones"
+  default_prompt: "Use $byte-roadmap-design-en to draft the actual deliverable and keep the Byte-style structure and judgment."

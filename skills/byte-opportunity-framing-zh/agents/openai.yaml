@@ -1,0 +1,4 @@
+interface:
+  display_name: "字节机会界定"
+  short_description: "把模糊机会拆成用户、场景、痛点、窗口与验证路径框架"
+  default_prompt: "使用 $byte-opportunity-framing-zh 直接为我产出这份文档或方案，并保持字节式判断和结构。"
